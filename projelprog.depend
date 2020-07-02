@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1577127381 source:c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575917891 c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\add_function.h
+	<string.h>
+
+1575917900 c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\save.h
+
+1575838481 c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\load_func.h
+
+1575832867 c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\head.h
+
+1575917895 c:\users\anafa\onedrive\desktop\c projects for prog 1\projelprog\load.h
+	<string.h>
+
+1577127381 source:c:\users\anafa\onedrive\desktop\c_projects_1\projelprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
